@@ -1,6 +1,6 @@
 # Write your solution here
 
-
+time.now
 if TRUE
   puts "Even!"
 else
