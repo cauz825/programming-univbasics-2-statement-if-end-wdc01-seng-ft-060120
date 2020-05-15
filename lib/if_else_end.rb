@@ -1,5 +1,6 @@
 # Write your solution here
 
+
 if TRUE
   puts "Even!"
 else
