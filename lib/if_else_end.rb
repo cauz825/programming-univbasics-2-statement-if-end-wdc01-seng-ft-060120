@@ -5,3 +5,5 @@ if true
 else
   puts "Odd!"
 end
+
+current_time = Time.now
