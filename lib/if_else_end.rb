@@ -1,6 +1,6 @@
 # Write your solution here
 
-if TRUE
+if true
   puts "Even!"
 else
   puts "Odd!"
