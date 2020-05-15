@@ -1,6 +1,7 @@
 # Write your solution here
 
-time.now
+random_number == 2
+
 if TRUE
   puts "Even!"
 else
